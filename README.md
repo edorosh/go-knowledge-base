@@ -37,7 +37,7 @@ Feel free to add something (with a pull request) you might think could be useful
 
 ## Other Online resources
 * [Video: Go in 7 hours](https://www.youtube.com/watch?v=YS4e4q9oBaU)
-* [Go podcast](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=w292ZzaHTZuAiXe_qdFylw)
+* [Go Podcast](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=w292ZzaHTZuAiXe_qdFylw)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [How To code with GO](https://assets.digitalocean.com/books/how-to-code-in-go.pdf)
 
@@ -65,13 +65,14 @@ Feel free to add something (with a pull request) you might think could be useful
 * [Struct / HTTP Request Validator](https://github.com/go-playground/validator)
 
 ## Dependency Injection / Separation of Concerns / Best Practices
-* [Typical Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+* [Effective GO](https://golang.org/doc/effective_go.html)
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Error handling](https://blog.golang.org/defer-panic-and-recover)
 * [DI Wire](https://blog.drewolson.org/go-dependency-injection-with-wire)
 * [Organising Database Access](https://www.alexedwards.net/blog/organising-database-access)
-* [Effective GO](https://golang.org/doc/effective_go.html)
 * [Go Modules Concept / Migrating to Go Modules](https://github.com/golang/go/wiki/Modules)
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 * [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)

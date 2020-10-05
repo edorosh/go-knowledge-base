@@ -12,7 +12,7 @@ Feel free to add something (with a pull request) you might think could be useful
 - [Real Project examples](#real-project-examples)
 - [Code Cheat Sheets](#code-cheat-sheets)
 - [Typical Use Cases](#typical-use-cases)
-- [Dependency Injection / Separation of Concerns / Best Practices](#dependency-injection-separation-of-concerns-best-practices)
+- [Dependency Injection / Separation of Concerns / Best Practices](#dependency-injection--separation-of-concerns--best-practices)
 - [Tests](#tests)
 - [Concurrency](#concurrency)
 - [Just for Fun](#just-for-fun)
